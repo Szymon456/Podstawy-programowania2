@@ -17,7 +17,7 @@ namespace Zadanie_4
             b = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Pole={0}", a*b);
             Console.WriteLine("Obwód={0}", 2 * a + b * 2);
-            Console.ReadKey(true);
+            Console.ReadKey(true);//
         }
     }
 }
