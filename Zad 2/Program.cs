@@ -17,7 +17,7 @@ namespace Zad_2
                 Console.WriteLine("Liczba {0} jest ujemna", a);
             else if (a > 0)
                 Console.WriteLine("Liczba {0} jest dodatnia", a);
-            else (a==0)
+            else
                  Console.WriteLine("Liczba {0} jest równa 0", a);
             Console.ReadKey(true);
         }
