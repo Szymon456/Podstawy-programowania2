@@ -5,6 +5,10 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{E3D6A5B9-AE27-4C99-BC83-54B3997A0F2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad 1", "zad 1\zad 1.csproj", "{3A9020D3-59DB-44E5-8F38-D33DC77F20F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadd 2", "Zadd 2\Zadd 2.csproj", "{06B261F0-960B-4045-926E-4DD6855F8D0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E3D6A5B9-AE27-4C99-BC83-54B3997A0F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3D6A5B9-AE27-4C99-BC83-54B3997A0F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3D6A5B9-AE27-4C99-BC83-54B3997A0F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A9020D3-59DB-44E5-8F38-D33DC77F20F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9020D3-59DB-44E5-8F38-D33DC77F20F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9020D3-59DB-44E5-8F38-D33DC77F20F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9020D3-59DB-44E5-8F38-D33DC77F20F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B261F0-960B-4045-926E-4DD6855F8D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B261F0-960B-4045-926E-4DD6855F8D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B261F0-960B-4045-926E-4DD6855F8D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B261F0-960B-4045-926E-4DD6855F8D0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
